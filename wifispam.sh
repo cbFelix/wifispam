@@ -158,6 +158,7 @@ main() {
     echo "===================================================================="
     echo "   Wi-Fi SSID Attack Script be kewwL"
     echo "   Project Repository: https://github.com/cbFelix/wifispam"
+    echo "   Current version: 1.1.0"
     echo "===================================================================="
     log_message "Script started."
 
