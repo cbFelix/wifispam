@@ -8,6 +8,16 @@ A bash script for executing Wi-Fi SSID attacks with options to use custom SSID l
 - Handles interface setup (monitor mode) and teardown (managed mode)
 - Automatic error logging and system cleanup after execution
 
+# Changelogs
+## v1.1.0 - 09.10.2024
+
+- Dependency Checks: Added validation for required tools (mdk3, macchanger, etc.).
+- Interface Validation: Ensures selected interface is wireless and active.
+- Error Handling: Improved error messages for easier troubleshooting.
+- MAC Change Verification: Added check to confirm successful MAC address change.
+- Cleanup: Enhanced post-attack cleanup to restore original settings.
+
+
 # Disclaimer
 
 This project is intended for educational and research purposes only. The use of this script for any illegal activities, including unauthorized access to wireless networks, is strictly prohibited. It is your responsibility to ensure that you have permission to test or attack any network you are targeting.
