@@ -2,6 +2,9 @@
 
 A bash script for executing Wi-Fi SSID attacks with options to use custom SSID lists or generate random SSIDs, featuring automated interface setup and cleanup.
 
+## Follow the development:
+Follow the updates, innovations and the entire development process in my telegram channel: https://t.me/wifispamDev
+
 ## Features
 - Automates Wi-Fi SSID attacks using MDK3
 - Supports custom SSID lists or random SSID generation
